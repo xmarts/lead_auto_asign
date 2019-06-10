@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo noupdate="1">
+    <record id="crm_estado_aguascalientes" model="crm.estado">
+        <field name="name">Aguascalientes</field>
+        <field name="codigo">aguascalientes</field>
+    </record>
+    <record id="crm_estado_bajacalifornianorte" model="crm.estado">
+        <field name="name">Baja California Norte</field>
+        <field name="codigo">bajacalifornianorte</field>
+    </record>
+    <record id="crm_estado_bajacaliforniasur" model="crm.estado">
+        <field name="name">Baja California Sur</field>
+        <field name="codigo">bajacaliforniasur</field>
+    </record>
+    <record id="crm_estado_campeche" model="crm.estado">
+        <field name="name">Campeche</field>
+        <field name="codigo">campeche</field>
+    </record>
+    <record id="crm_estado_chiapas" model="crm.estado">
+        <field name="name">Chiapas</field>
+        <field name="codigo">chiapas</field>
+    </record>
+    <record id="crm_estado_chihuahua" model="crm.estado">
+        <field name="name">Chihuahua</field>
+        <field name="codigo">chihuahua</field>
+    </record>
+    <record id="crm_estado_coahuila" model="crm.estado">
+        <field name="name">Coahuila de Zaragoza</field>
+        <field name="codigo">coahuila</field>
+    </record>
+    <record id="crm_estado_colima" model="crm.estado">
+        <field name="name">Colima</field>
+        <field name="codigo">colima</field>
+    </record>
+    <record id="crm_estado_df" model="crm.estado">
+        <field name="name">Ciudad de México</field>
+        <field name="codigo">df</field>
+    </record>
+    <record id="crm_estado_durango" model="crm.estado">
+        <field name="name">Durango</field>
+        <field name="codigo">durango</field>
+    </record>
+    <record id="crm_estado_guanajuato" model="crm.estado">
+        <field name="name">Guanajuato</field>
+        <field name="codigo">guanajuato</field>
+    </record>
+    <record id="crm_estado_guerrero" model="crm.estado">
+        <field name="name">Guerrero</field>
+        <field name="codigo">guerrero</field>
+    </record>
+    <record id="crm_estado_hidalgo" model="crm.estado">
+        <field name="name">Hidalgo</field>
+        <field name="codigo">hidalgo</field>
+    </record>
+    <record id="crm_estado_jalisvo" model="crm.estado">
+        <field name="name">Jalisco</field>
+        <field name="codigo">jalisvo</field>
+    </record>
+    <record id="crm_estado_michoacan" model="crm.estado">
+        <field name="name">Michoacán de Ocampo</field>
+        <field name="codigo">michoacan</field>
+    </record>
+    <record id="crm_estado_morelos" model="crm.estado">
+        <field name="name">Morelos</field>
+        <field name="codigo">morelos</field>
+    </record>
+    <record id="crm_estado_mexico" model="crm.estado">
+        <field name="name">México</field>
+        <field name="codigo">mexico</field>
+    </record>
+    <record id="crm_estado_nayarit" model="crm.estado">
+        <field name="name">Nayarit</field>
+        <field name="codigo">nayarit</field>
+    </record>
+    <record id="crm_estado_nuevoleon" model="crm.estado">
+        <field name="name">Nuevo León</field>
+        <field name="codigo">nuevoleon</field>
+    </record>
+    <record id="crm_estado_oaxaca" model="crm.estado">
+        <field name="name">Oaxaca</field>
+        <field name="codigo">oaxaca</field>
+    </record>
+    <record id="crm_estado_puebla" model="crm.estado">
+        <field name="name">Puebla</field>
+        <field name="codigo">puebla</field>
+    </record>
+    <record id="crm_estado_queretaro" model="crm.estado">
+        <field name="name">Querétaro</field>
+        <field name="codigo">queretaro</field>
+    </record>
+    <record id="crm_estado_quintanaroo" model="crm.estado">
+        <field name="name">Quintana Roo</field>
+        <field name="codigo">quintanaroo</field>
+    </record>
+    <record id="crm_estado_sanluispotosi" model="crm.estado">
+        <field name="name">San Luis Potosí</field>
+        <field name="codigo">sanluispotosi</field>
+    </record>
+    <record id="crm_estado_sinaloa" model="crm.estado">
+        <field name="name">Sinaloa</field>
+        <field name="codigo">sinaloa</field>
+    </record>
+    <record id="crm_estado_sonora" model="crm.estado">
+        <field name="name">Sonora</field>
+        <field name="codigo">sonora</field>
+    </record>
+    <record id="crm_estado_tabasco" model="crm.estado">
+        <field name="name">Tabasco</field>
+        <field name="codigo">tabasco</field>
+    </record>
+    <record id="crm_estado_tamaulipas" model="crm.estado">
+        <field name="name">Tamaulipas</field>
+        <field name="codigo">tamaulipas</field>
+    </record>
+    <record id="crm_estado_tlaxcala" model="crm.estado">
+        <field name="name">Tlaxcala</field>
+        <field name="codigo">tlaxcala</field>
+    </record>
+    <record id="crm_estado_veracruz" model="crm.estado">
+        <field name="name">Veracruz de Ignacio de la Llave</field>
+        <field name="codigo">veracruz</field>
+    </record>
+    <record id="crm_estado_yucatan" model="crm.estado">
+        <field name="name">Yucatán</field>
+        <field name="codigo">yucatan</field>
+    </record>
+    <record id="crm_estado_zacatecas" model="crm.estado">
+        <field name="name">Zacatecas</field>
+        <field name="codigo">zacatecas</field>
+    </record>
+</odoo>
