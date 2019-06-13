@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "lead_auto_asign",
+    'name': "Lead Auto Asign",
 
     'summary': """
         
